@@ -19,6 +19,7 @@ locale                   : "en-US"
 title                    : "Buried Nuts"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
+future                   : true
 name                     : ""
 description              : "An Journal"
 url                      : "https://craving4u.github.io"
@@ -220,7 +221,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
